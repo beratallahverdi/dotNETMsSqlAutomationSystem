@@ -1,0 +1,61 @@
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe.config
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.pdb
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csprojAssemblyReference.cache
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Login.resources
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Properties.Resources.resources
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.GenerateResource.cache
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CoreCompileInputs.cache
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.exe
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.pdb
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Homepage.resources
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\MySql.Data.dll
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\Google.Protobuf.dll
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\MySql.Data.xml
+F:\Development\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CopyComplete
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe.config
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.pdb
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\MySql.Data.dll
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\Google.Protobuf.dll
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\MySql.Data.xml
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csprojAssemblyReference.cache
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Homepage.resources
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Login.resources
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Properties.Resources.resources
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.GenerateResource.cache
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CoreCompileInputs.cache
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CopyComplete
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.exe
+D:\Berat\Visual Studio\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.pdb
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe.config
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.pdb
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\Google.Protobuf.dll
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\MySql.Data.xml
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csprojResolveAssemblyReference.cache
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Homepage.resources
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Login.resources
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Properties.Resources.resources
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.GenerateResource.cache
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CoreCompileInputs.cache
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CopyComplete
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.exe
+C:\Users\hakki\source\repos\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.pdb
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe.config
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.exe
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\GorselProgramlama_Proje.pdb
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\MySql.Data.dll
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\Google.Protobuf.dll
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\bin\Debug\MySql.Data.xml
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csprojAssemblyReference.cache
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Homepage.resources
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Login.resources
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.Properties.Resources.resources
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.GenerateResource.cache
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CoreCompileInputs.cache
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.csproj.CopyComplete
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.exe
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.pdb
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.InsertCase.resources
+E:\progrma\GorselProgramlama_Proje\GorselProgramlama_Proje\obj\Debug\GorselProgramlama_Proje.UpdateCase.resources
